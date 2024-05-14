@@ -1,0 +1,23 @@
+Debug
+	Client DEBUG output
+	Server DEBUG output
+	Server DEBUG communication output
+
+Victory
+	Seconds needed to check a king to win
+
+Random Moves
+	Enable/disable
+	Include which pieces in random moves
+	Attempt random move every N seconds
+	Retry time (N sec) for random moves if we don't manage to move a piece
+
+Automatic piece assignment
+	Who should get what piece
+
+Number of players
+	N
+
+Turn-based
+	Enable/disable
+
